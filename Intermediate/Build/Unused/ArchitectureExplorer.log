@@ -1,0 +1,10 @@
+﻿  Creating makefile for hot reloading ArchitectureExplorerEditor (modules to compile have changed)
+  Compiling game modules for hot reload
+  Performing 3 actions (15 in parallel)
+  VRCharacter.cpp
+  [2/3] Link UE4Editor-ArchitectureExplorer-7450.dll
+  [3/3] Link UE4Editor-ArchitectureExplorer-7450.lib
+     C:\Users\jwjeon\Documents\Unreal Projects\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArchitectureExplorer-7450.lib 라이브러리 및 C:\Users\jwjeon\Documents\Unreal Projects\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArchitectureExplorer-7450.exp 개체를 생성하고 있습니다.
+     C:\Users\jwjeon\Documents\Unreal Projects\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArchitectureExplorer-7450.suppressed.lib 라이브러리 및 C:\Users\jwjeon\Documents\Unreal Projects\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArchitectureExplorer-7450.suppressed.exp 개체를 생성하고 있습니다.
+  Deploying ArchitectureExplorerEditor Win64 Development...
+  Total build time: 5.83 seconds (Local executor: 1.52 seconds)
